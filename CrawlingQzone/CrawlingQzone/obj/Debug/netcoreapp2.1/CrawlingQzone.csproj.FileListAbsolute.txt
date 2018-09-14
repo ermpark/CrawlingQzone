@@ -1,0 +1,14 @@
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\bin\Debug\netcoreapp2.1\CrawlingQzone.deps.json
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\bin\Debug\netcoreapp2.1\CrawlingQzone.runtimeconfig.json
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\bin\Debug\netcoreapp2.1\CrawlingQzone.runtimeconfig.dev.json
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\bin\Debug\netcoreapp2.1\CrawlingQzone.dll
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\obj\Debug\netcoreapp2.1\CrawlingQzone.csprojAssemblyReference.cache
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\obj\Debug\netcoreapp2.1\CrawlingQzone.csproj.CoreCompileInputs.cache
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\obj\Debug\netcoreapp2.1\CrawlingQzone.AssemblyInfoInputs.cache
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\obj\Debug\netcoreapp2.1\CrawlingQzone.AssemblyInfo.cs
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\bin\Debug\netcoreapp2.1\CrawlingQzone.pdb
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\obj\Debug\netcoreapp2.1\CrawlingQzone.dll
+D:\work\github\allProject\xUnitLoginQzone\CrawlingQzone\CrawlingQzone\obj\Debug\netcoreapp2.1\CrawlingQzone.pdb
